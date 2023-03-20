@@ -11,10 +11,6 @@
     "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
     "alt": ""
   },
-  "-2b1beb3c": {
-    "url": "https://d3e54v103j8qbb.cloudfront.net/static/page-not-found.211a85e40c.svg",
-    "alt": ""
-  },
   "722c2283": {
     "url": "https://uploads-ssl.webflow.com/624380709031623bfe4aee60/624380709031625abc4aee65_company-logo.svg",
     "alt": ""
@@ -29,6 +25,10 @@
   },
   "6190b479": {
     "url": "https://uploads-ssl.webflow.com/624380709031623bfe4aee60/6294195f2d0c46815fb2259c_icon.svg",
+    "alt": ""
+  },
+  "-2b1beb3c": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/static/page-not-found.211a85e40c.svg",
     "alt": ""
   }
 }

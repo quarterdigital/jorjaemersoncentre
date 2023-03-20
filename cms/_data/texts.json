@@ -8,13 +8,10 @@
   "1fe057a7": "COMING SOON!",
   "6f22f120": "Our state of the art clinic facility is opening April 2023",
   "-75e049ad": "Innovative medicine at The Jorja Emerson Centre.",
-  "-576a506f": "0330 580 1153",
+  "-576a506a": "0330 580 1158",
   "78e4c6b5": "hello@jorjaemersoncentre.com",
   "-11d4bbff": "Protected Page",
   "-f5c4b5f": "Incorrect password. Please try again.",
-  "-40b0787c": "Page Not Found",
-  "556d64d8": "The page you are looking for doesn't exist or has been moved",
-  "6b29b517": "Go Home",
   "7947231c": "Relume Library Style Guide",
   "6e18f87e": "Version 1.3 • Client-First V2",
   "-33d446f3": "Client-First Docs",
@@ -275,5 +272,8 @@
   "5f060ba3": "z-index-1",
   "5f060ba4": "z-index-2",
   "29f753fd": "display-inlineflex",
-  "34e4c66": "margin-top-auto"
+  "34e4c66": "margin-top-auto",
+  "-40b0787c": "Page Not Found",
+  "556d64d8": "The page you are looking for doesn't exist or has been moved",
+  "6b29b517": "Go Home"
 }
